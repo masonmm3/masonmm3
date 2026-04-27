@@ -1,4 +1,4 @@
-![image](src/ProfileBanner.jpg)
+![image](src/ProfileBannerWithLogo.png)
 <h1 align='center'> Mason MM3 </h1>
 <h6 align='center'> Computer Engineering Major @ Purdue, Founder of Cascade Studios LLP and Mo Sim </h6>
 
